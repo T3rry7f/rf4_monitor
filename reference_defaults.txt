@@ -1,0 +1,6 @@
+RF4 bundled reference defaults for profile 4.0.24799
+Host: api.rf4game.ru
+URL: https://rf4game.com/cn/feed/
+- api.rf4game.ru:443 登录 HTTPS，192.168.1.100:54653 <-> 185.71.67.221:443
+- 91.132.228.133:9341 主游戏 TCP，192.168.1.100:54654 <-> 91.132.228.133:9341
+<logon success="true"><host>91.132.228.133;185.71.66.225;91.194.110.5</host><port>9341</port></logon>

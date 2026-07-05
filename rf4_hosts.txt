@@ -1,0 +1,6 @@
+# RF4 Monitor hosts sample
+# Windows hosts path:
+#   C:\Windows\System32\drivers\etc\hosts
+# Run with administrator privileges when editing the system hosts file.
+
+127.0.0.1 api.rf4game.ru
